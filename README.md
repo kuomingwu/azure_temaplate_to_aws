@@ -1,9 +1,9 @@
 ## Ian's project
 
 ### install 
-	```
-	yarn install
-	```
+	
+`yarn install`
+	
 ### set .env file in root
 ```	
 	SERVER_PORT=80
