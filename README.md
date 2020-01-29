@@ -1,10 +1,10 @@
-###Ian's project
+##Ian's project
 
-###1. install 
+###`1. install` 
 	```
 	yarn install
 	```
-###2. set .env file in root
+###`2. set .env file in root`
 ```	
 	SERVER_PORT=80
 	DEBUG_MODE = 'true'
